@@ -64,7 +64,7 @@
 ## 📂 Featured Projects
 
 ### 🛡️ Aegis-Protocol Security Platform
-> **Live Demo:** [aegis-protocol-cyber-security-application-6c5bwzh4x.vercel.app](https://aegis-protocol-cyber-security-application-6c5bwzh4x.vercel.app/)
+> **Live Demo:** https://aegis-protocol-security-application.netlify.app
 
 - Architected a responsive full-stack web application using **React.js**, **Tailwind CSS**, and **Supabase**.
 - Implemented real-time database management and secure user authentication protocols.
@@ -118,8 +118,9 @@
   </a>
 </p>
 
-- 🌐 **Portfolio Website:** [preview--sunshine-dev-cards.lovable.app](https://preview--sunshine-dev-cards.lovable.app/)
+- 🌐 **Portfolio Website:** https://jagadishpaliwal-portfolio.netlify.app/
 - 📧 **Direct Email:** jagadishpaliwal1@gmail.com
+- 🔗 **linkedin Email:** https://www.linkedin.com/in/jagadish-paliwal-1117002b8
 
 ---
 
