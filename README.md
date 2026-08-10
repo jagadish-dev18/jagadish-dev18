@@ -66,19 +66,22 @@
 ### 🛡️ Aegis-Protocol Security Platform
 > **Live Demo:** https://aegis-protocol-security-application.netlify.app
 
-- Architected a responsive full-stack web application using **React.js**, **Tailwind CSS**, and **Supabase**.
-- Implemented real-time database management and secure user authentication protocols.
-- Enhanced user accessibility and interface engagement by **30%** through optimized UI/UX design.
+- 🛡️Aegis Protocol is a modern cybersecurity platform for centralized security monitoring and threat management.
+- 🔎Provides threat scanning, vulnerability assessment, network monitoring, and incident reporting.
+- 🌐Provides threat scanning, vulnerability assessment, network monitoring, and incident reporting.
+- 📊Features an interactive security dashboard for monitoring threats, risks, and security activities.
+- ⚛️Built using React, TypeScript, Vite, Tailwind CSS, Zustand, Recharts, and i18next.
+- 🚀Designed to make cybersecurity more accessible, organized, and easier to understand.
 
 ---
 
-### 🔍 Asian Cybersecurity Threat Analysis
+### 🔍 Cybersecurity Threat Analysis
 > **Live Demo:** https://thread-analysis.netlify.app/
-- Developed a web-based tool to analyze and visualize thread-related data through an interactive dashboard.
-- Implemented interactive charts, filters, and geographical maps to identify patterns and trends.
-- Built using React, TypeScript, Vite, Tailwind CSS, and data visualization libraries.
-- Designed a responsive and user-friendly interface for efficient data exploration and analysis.
-- Helps users convert complex datasets into clear visual insights and meaningful information.
+- 🔐Developed a web-based tool to analyze and visualize thread-related data through an interactive dashboard.
+- 📊Implemented interactive charts, filters, and geographical maps to identify patterns and trends.
+- ⚛️Built using React, TypeScript, Vite, Tailwind CSS, and data visualization libraries.
+- 🎨Designed a responsive and user-friendly interface for efficient data exploration and analysis.
+- 💡Helps users convert complex datasets into clear visual insights and meaningful information.
 ---
 
 ## 📜 Internships & Certifications
