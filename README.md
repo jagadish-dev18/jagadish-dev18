@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagadish Paliwal</h1>
 
 <p align="center">
-  <img src=""https://ibb.co/kV9g6b0R"><img src="https://i.ibb.co/twxMPjc7/Chat-GPT-Image-Aug-6-2026-07-10-26-PM.png" alt="Chat-GPT-Image-Aug-6-2026-07-10-26-PM" border="0"/>
+  <img src="https://ibb.co/kV9g6b0R"><img src="https://i.ibb.co/twxMPjc7/Chat-GPT-Image-Aug-6-2026-07-10-26-PM.png" alt="Chat-GPT-Image-Aug-6-2026-07-10-26-PM" border="0"/>
 </p>
 
 <h3 align="center">Computer Science (Cybersecurity) Undergraduate | Full Stack Developer | Security Enthusiast</h3>
