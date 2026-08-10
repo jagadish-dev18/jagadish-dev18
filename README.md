@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagadish Paliwal</h1>
 
 <p align="center">
-  <img src="https://ibb.co/kV9g6b0R"><img src="https://i.ibb.co/twxMPjc7/Chat-GPT-Image-Aug-6-2026-07-10-26-PM.png" alt="Chat-GPT-Image-Aug-6-2026-07-10-26-PM" border="0"/>
+  <img src="<a href="https://ibb.co/DHTGpXnj"><img src="https://i.ibb.co/DHTGpXnj/image.jpg" alt="image" border="0"></a>/>
 </p>
 
 <h3 align="center">Computer Science (Cybersecurity) Undergraduate | Full Stack Developer | Security Enthusiast</h3>
@@ -73,11 +73,12 @@
 ---
 
 ### 🔍 Asian Cybersecurity Threat Analysis
-
-- Analyzed a dataset of **1,000+ cybersecurity incidents** across 4 Asian nations.
-- Identified primary attack vectors including **phishing (35%)** and **ransomware (25%)**.
-- Engineered data visualizations using **Python (Pandas, Matplotlib)** to deliver actionable security recommendations.
-
+> **Live Demo:** https://thread-analysis.netlify.app/
+- Developed a web-based tool to analyze and visualize thread-related data through an interactive dashboard.
+- Implemented interactive charts, filters, and geographical maps to identify patterns and trends.
+- Built using React, TypeScript, Vite, Tailwind CSS, and data visualization libraries.
+- Designed a responsive and user-friendly interface for efficient data exploration and analysis.
+- Helps users convert complex datasets into clear visual insights and meaningful information.
 ---
 
 ## 📜 Internships & Certifications
