@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagadish Paliwal</h1>
 
 <p align="center">
-  <img src="<a href="https://ibb.co/DHTGpXnj"><img src="https://i.ibb.co/DHTGpXnj/image.jpg" alt="image" border="0"></a>/>
+  <img src="https://ibb.co/DHTGpXnj"><img src="https://i.ibb.co/DHTGpXnj/image.jpg" alt="image" border="0"/>
 </p>
 
 <h3 align="center">Computer Science (Cybersecurity) Undergraduate | Full Stack Developer | Security Enthusiast</h3>
