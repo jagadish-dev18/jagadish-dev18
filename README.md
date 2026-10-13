@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagadish Paliwal</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/DHTGpXnj/image.jpg" alt="Jagadish Paliwal" width="180" />
+  <img src="https://cdn.corenexis.com/f/OIaRg4wntjU.png" alt="Jagadish Paliwal" width="180" />
 </p>
 
 <h3 align="center">Computer Science & Cybersecurity Undergraduate | Web Developer | Cybersecurity Enthusiast</h3>
